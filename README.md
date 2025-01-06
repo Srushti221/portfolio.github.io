@@ -14,7 +14,8 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 ## 🌐 Find Me Online
 - [GitHub](https://github.com/your-github-username)
-- [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](www.linkedin.com/in/srushti-bandi-491194345)
+
 
 ## Portfolio Topic
 
