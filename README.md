@@ -5,7 +5,8 @@
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
+- **Project 1**: i along with my teammates have built a portal for the police department  which contains 
+various records which helps the officers to run functions smoothly...
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -23,13 +24,13 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECAC203</dd>
 <dt>Name</dt>
 <dd>SRUSHTI BANDI</dd>
 <dt>SRN</dt>
 <dd>02FE23BCI029</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>DR.PRIYANKA GAVADE</dd>
 <dt>University</dt>
 <dd>KLE UNIVERSITY</dd>
 <dt>Portfolio Topic/Domain</dt>
